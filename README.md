@@ -447,4 +447,4 @@ Developed by Pedro Henrique Lopes de Araújo.
 
 ## License
 
-No license has been added yet. Until a license is included, the source code remains publicly visible but is not automatically granted for unrestricted reuse, modification, or distribution.
+This project is licensed under the MIT License. See the LICENSE file for details.
