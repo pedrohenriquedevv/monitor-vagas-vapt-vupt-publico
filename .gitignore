@@ -1,0 +1,30 @@
+# Personal data and local configuration
+.env
+
+# Logs and control files
+*.log
+*.lock
+*.flag
+
+# Screenshots and documents
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# VS Code
+.vscode/
+
+# Playwright
+playwright-report/
+test-results/
+
+# Windows
+Thumbs.db
+desktop.ini
